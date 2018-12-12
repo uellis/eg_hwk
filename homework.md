@@ -2,14 +2,12 @@
 
 ### Question 1
 Have you ever used Git before?
-
-> your answer goes here
+no
 
 
 ### Question 2
 Have you ever used Github before?
-
-> your answer goes here
+yes
 
 
 ### Question 3
